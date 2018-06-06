@@ -1,4 +1,4 @@
-# example ingredients array
+
 ingredients = [
     ["rye", "sourdough", "baguette"],
     ["ham", "salami", "turkey"],
@@ -7,7 +7,7 @@ ingredients = [
 ]
 
 def sandwich_request(ingredients, order) 
-  # your code here!
+  
 end
 
 # example city_info hash
